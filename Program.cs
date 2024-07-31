@@ -8,7 +8,6 @@ namespace HellowWorld
         public static void Main(string[] args)
         {
             Console.WriteLine("김찬은 밥반찬");
-            
         }
     }
 }
