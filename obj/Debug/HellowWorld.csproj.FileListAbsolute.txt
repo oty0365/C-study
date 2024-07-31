@@ -1,0 +1,6 @@
+C:\Users\user\RiderProjects\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe
+C:\Users\user\RiderProjects\HellowWorld\HellowWorld\bin\Debug\HellowWorld.pdb
+C:\Users\user\RiderProjects\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\HellowWorld\HellowWorld\obj\Debug\HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\HellowWorld\HellowWorld\obj\Debug\HellowWorld.exe
+C:\Users\user\RiderProjects\HellowWorld\HellowWorld\obj\Debug\HellowWorld.pdb
